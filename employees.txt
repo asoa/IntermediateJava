@@ -1,3 +1,0 @@
-2015 Salesman Jones,Bill 3000 100000
-2014 Executive Taylor,Jack 6000 50
-2015 Employee Black,Ian 2500
